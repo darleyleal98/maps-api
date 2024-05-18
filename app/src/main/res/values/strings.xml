@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">maps-api</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="world_map">World Map</string>
+</resources>
